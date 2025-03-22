@@ -2,8 +2,7 @@
   "name": "ReadRAW_ThingSpeak",
   "keywords": "ReadRAW_ThingSpeak, ThingSpeak",
   "description": "Arduino library for Read RAW of field ThingSpeak",
-  "authors":
-  [
+  "authors": [
     {
       "name": "Olivier FOURNET",
       "email": "olivier.fournet@free.fr",
@@ -11,14 +10,12 @@
     }
   ],
   "homepage": "https://github.com/Fo170/ReadRAW_ThingSpeak",
-  "repository":
-  {
+  "repository": {
     "type": "git",
     "url": "https://github.com/Fo170/ReadRAW_ThingSpeak.git"
   },
   "version": "1.0.0",
   "license": "GPL-3.0 license",
-  "frameworks": "arduino",
   "frameworks": "arduino",
   "platforms": "*",
   "headers": "ReadRAW_ThingSpeak.h"
