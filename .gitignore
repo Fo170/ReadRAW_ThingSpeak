@@ -1,0 +1,5 @@
+# Agent instruction files - never push to GitHub
+AGENTS.md
+CLAUDE.md
+copilot-instructions.md
+.cursorrules
