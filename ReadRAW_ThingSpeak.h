@@ -1,3 +1,6 @@
+// Version de la librairie (source UNIQUE — agrégée par liste_lib.h)
+#define __READRAW_THINGSPEAK_H_VERSION__ "1.0.0"
+
 // #define à définir dans le programme principale :
 // #define NOMBRE_DATA  10
 // #define SIZE_BUFFER_DynamicJsonDoc  2048
